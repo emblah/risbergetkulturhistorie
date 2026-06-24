@@ -3,6 +3,10 @@ layout: layouts/page.njk
 title: Da svedjefinnene kom til Risberget
 description: Arkivinformasjon om Trond Buruds foredrag om svedjefinnenes vei til Risberget.
 permalink: /historie/svedjefinnene/
+nav:
+  label: Svedjefinnene
+  parent: /historie/
+  order: 3
 breadcrumbs:
   - label: Historie og kultur
     url: /historie/

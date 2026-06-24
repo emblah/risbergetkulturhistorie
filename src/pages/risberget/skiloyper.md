@@ -4,6 +4,10 @@ title: Skiløyper i Risberget
 description: Preparerte skiløyper, løypekart og gapahuker i Risberget.
 introduction: Risberget Idrettslag har opparbeidet flere sløyfer med preparerte skiløyper.
 permalink: /risberget/skiloyper/
+nav:
+  label: Skiløyper
+  parent: /risberget/
+  order: 4
 breadcrumbs:
   - label: Om Risberget
     url: /risberget/
@@ -37,4 +41,3 @@ Gjerdtjernet. Den andre heter Harmoni og ligger på Kaskonsmyra.
     <figcaption>Gapahuken Harmoni på Kaskonsmyra.</figcaption>
   </figure>
 </div>
-

@@ -3,6 +3,10 @@ layout: layouts/page.njk
 title: Årringdatering av bygninger i Risberget
 description: Prosjektet for dendrokronologisk datering av eldre tømmerbygninger i Risberget.
 permalink: /historie/arringdatering/
+nav:
+  label: Årringdatering
+  parent: /historie/
+  order: 4
 breadcrumbs:
   - label: Historie og kultur
     url: /historie/

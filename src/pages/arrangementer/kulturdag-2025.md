@@ -4,6 +4,9 @@ title: Kulturdagen 2025
 description: Program for Kulturdagen 2025 i Risberget.
 introduction: Program på kulturdagen 13. september 2025 i Risberget grendehus
 permalink: /arrangementer/kulturdag-2025/
+nav:
+  parent: /arrangementer/
+  order: 1
 breadcrumbs:
   - label: Arrangementer
     url: /arrangementer/

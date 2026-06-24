@@ -4,6 +4,9 @@ title: Kulturdagen 2022
 description: Bilder fra Kulturdagen 2022 i Risberget.
 introduction: Bildearkiv fra Kulturdagen 2022, med skogfinsk historie og lokale utstillinger.
 permalink: /arrangementer/kulturdag-2022/
+nav:
+  parent: /arrangementer/
+  order: 2
 breadcrumbs:
   - label: Arrangementer
     url: /arrangementer/

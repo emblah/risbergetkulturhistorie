@@ -4,6 +4,9 @@ title: Risbergsmarka
 description: Beliggenhet og avgrensning av Risbergsmarka i Våler.
 introduction: Risbergsmarka er et skogområde på omkring 85 000 mål nordvest i Våler kommune.
 permalink: /risberget/risbergsmarka/
+nav:
+  parent: /risberget/
+  order: 2
 breadcrumbs:
   - label: Om Risberget
     url: /risberget/
@@ -19,4 +22,3 @@ myr- og skogmosaikk, før den svinger vestover og nordover langs veien mot
 Bukkåsen.
 
 Risberget ligger sentralt i marka, med spredt bebyggelse.
-

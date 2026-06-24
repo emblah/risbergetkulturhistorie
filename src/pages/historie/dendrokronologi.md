@@ -4,6 +4,10 @@ title: Dendrokronologi i Risberget
 description: Første prøvetaking for aldersbestemmelse av eldre bygninger i Risberget.
 introduction: Onsdag 7. mai 2025 startet prøvetakingen for å aldersbestemme de eldste bygningene i Risberget.
 permalink: /historie/dendrokronologi/
+nav:
+  label: Dendrokronologi
+  parent: /historie/
+  order: 5
 breadcrumbs:
   - label: Historie og kultur
     url: /historie/

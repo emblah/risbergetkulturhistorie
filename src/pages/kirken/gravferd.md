@@ -4,6 +4,9 @@ title: Seremonirommet
 description: Om det religionsnøytrale seremonirommet i Risberget.
 introduction: Seremonirommet sto ferdig i september 2013 og er religionsnøytralt.
 permalink: /kirken/gravferd/
+nav:
+  parent: /kirken/
+  order: 2
 breadcrumbs:
   - label: Risberget kirke
     url: /kirken/

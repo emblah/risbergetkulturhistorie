@@ -4,6 +4,9 @@ title: Kulturdagen 2020
 description: Arkivside for Kulturdagen 2020, som ble utsatt på grunn av koronapandemien.
 introduction: Det planlagte arrangementet i september 2020 ble utsatt ett år.
 permalink: /arrangementer/kulturdag-2020/
+nav:
+  parent: /arrangementer/
+  order: 4
 breadcrumbs:
   - label: Arrangementer
     url: /arrangementer/

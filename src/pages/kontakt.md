@@ -4,6 +4,8 @@ title: Kontakt
 description: Kontaktinformasjon for Risberget kulturhistoriske forening.
 introduction: Ønsker du å komme i kontakt med oss?
 permalink: /kontakt/
+nav:
+  order: 8
 breadcrumbs:
   - label: Kontakt
 ---

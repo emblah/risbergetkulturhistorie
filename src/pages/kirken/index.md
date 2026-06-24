@@ -3,6 +3,8 @@ layout: layouts/page.njk
 title: Risberget kirke
 description: Historien om kirkesalen i Risberget, som ble innviet 18. oktober 1863.
 permalink: /kirken/
+nav:
+  order: 4
 breadcrumbs:
   - label: Risberget kirke
 ---

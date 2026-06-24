@@ -4,6 +4,9 @@ title: Altertavla
 description: "Inventaret i Risberget kirkesal: altertavle, døpefont, stoler og orgler."
 introduction: Kirkesalens inventar er blitt til gjennom gaver, lokalt håndverk og innsamling i menigheten.
 permalink: /kirken/altertavle/
+nav:
+  parent: /kirken/
+  order: 1
 breadcrumbs:
   - label: Risberget kirke
     url: /kirken/

@@ -4,6 +4,10 @@ title: Finnebosetning i Risberget
 description: En oversikt over den skogfinske bosettingen, rydningen og Puranen-slekta i Risberget.
 introduction: Finnebosetning i Risberget og Puranenslekta på garden Nyborg fram til i dag.
 permalink: /historie/finnebosetning/
+nav:
+  label: Finnebosetning
+  parent: /historie/
+  order: 2
 breadcrumbs:
   - label: Historie og kultur
     url: /historie/

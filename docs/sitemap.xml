@@ -7,6 +7,9 @@
     <loc>https://risbergetfinnskogen.no/arrangementer/</loc>
   </url>
   <url>
+    <loc>https://risbergetfinnskogen.no/arrangementer/350-arsjubileum/</loc>
+  </url>
+  <url>
     <loc>https://risbergetfinnskogen.no/arrangementer/kulturdag-2019/</loc>
   </url>
   <url>
@@ -19,10 +22,13 @@
     <loc>https://risbergetfinnskogen.no/arrangementer/kulturdag-2022/</loc>
   </url>
   <url>
-    <loc>https://risbergetfinnskogen.no/bilder/host/</loc>
+    <loc>https://risbergetfinnskogen.no/arrangementer/kulturdag-2025/</loc>
   </url>
   <url>
     <loc>https://risbergetfinnskogen.no/bilder/</loc>
+  </url>
+  <url>
+    <loc>https://risbergetfinnskogen.no/bilder/host/</loc>
   </url>
   <url>
     <loc>https://risbergetfinnskogen.no/bilder/sommer/</loc>
@@ -32,6 +38,12 @@
   </url>
   <url>
     <loc>https://risbergetfinnskogen.no/bilder/vinter/</loc>
+  </url>
+  <url>
+    <loc>https://risbergetfinnskogen.no/foreningen/</loc>
+  </url>
+  <url>
+    <loc>https://risbergetfinnskogen.no/foreningen/arsmoteprotokoller/</loc>
   </url>
   <url>
     <loc>https://risbergetfinnskogen.no/foreningen/arsmoteprotokoller/2018/</loc>
@@ -58,16 +70,13 @@
     <loc>https://risbergetfinnskogen.no/foreningen/arsmoteprotokoller/2025/</loc>
   </url>
   <url>
-    <loc>https://risbergetfinnskogen.no/foreningen/arsmoteprotokoller/</loc>
-  </url>
-  <url>
-    <loc>https://risbergetfinnskogen.no/foreningen/</loc>
-  </url>
-  <url>
     <loc>https://risbergetfinnskogen.no/foreningen/medlemskap/</loc>
   </url>
   <url>
     <loc>https://risbergetfinnskogen.no/foreningen/styret/</loc>
+  </url>
+  <url>
+    <loc>https://risbergetfinnskogen.no/historie/</loc>
   </url>
   <url>
     <loc>https://risbergetfinnskogen.no/historie/arbeidern/</loc>
@@ -82,9 +91,6 @@
     <loc>https://risbergetfinnskogen.no/historie/finnebosetning/</loc>
   </url>
   <url>
-    <loc>https://risbergetfinnskogen.no/historie/</loc>
-  </url>
-  <url>
     <loc>https://risbergetfinnskogen.no/historie/minnepark/</loc>
   </url>
   <url>
@@ -92,6 +98,9 @@
   </url>
   <url>
     <loc>https://risbergetfinnskogen.no/historie/svedjefinnene/</loc>
+  </url>
+  <url>
+    <loc>https://risbergetfinnskogen.no/kirken/</loc>
   </url>
   <url>
     <loc>https://risbergetfinnskogen.no/kirken/altertavle/</loc>
@@ -103,19 +112,16 @@
     <loc>https://risbergetfinnskogen.no/kirken/gravlund/</loc>
   </url>
   <url>
-    <loc>https://risbergetfinnskogen.no/kirken/</loc>
-  </url>
-  <url>
     <loc>https://risbergetfinnskogen.no/kontakt/</loc>
   </url>
   <url>
     <loc>https://risbergetfinnskogen.no/lenker/</loc>
   </url>
   <url>
-    <loc>https://risbergetfinnskogen.no/risberget/finnskogen/</loc>
+    <loc>https://risbergetfinnskogen.no/risberget/</loc>
   </url>
   <url>
-    <loc>https://risbergetfinnskogen.no/risberget/</loc>
+    <loc>https://risbergetfinnskogen.no/risberget/finnskogen/</loc>
   </url>
   <url>
     <loc>https://risbergetfinnskogen.no/risberget/risbergsmarka/</loc>
@@ -126,11 +132,4 @@
   <url>
     <loc>https://risbergetfinnskogen.no/risberget/skiloyper/</loc>
   </url>
-  <url>
-    <loc>https://risbergetfinnskogen.no/arrangementer/350-arsjubileum/</loc>
-  </url>
-  <url>
-    <loc>https://risbergetfinnskogen.no/arrangementer/kulturdag-2025/</loc>
-  </url>
 </urlset>
-

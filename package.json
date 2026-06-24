@@ -4,12 +4,14 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "start": "eleventy --serve --output=_site",
-    "build": "eleventy --pathprefix=risbergetfinnskogen && npm run check",
+    "generate:navigation": "node scripts/generate-navigation.js",
+    "start": "npm run generate:navigation && eleventy --serve --output=_site",
+    "build": "npm run generate:navigation && eleventy --pathprefix=risbergetfinnskogen && npm run check",
     "check": "node scripts/check-site.js --site-root docs --path-prefix risbergetfinnskogen"
   },
   "devDependencies": {
     "@11ty/eleventy": "3.1.6",
+    "gray-matter": "4.0.3",
     "parse5": "8.0.0"
   }
 }

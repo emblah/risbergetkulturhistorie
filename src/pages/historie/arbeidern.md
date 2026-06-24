@@ -4,6 +4,10 @@ title: Forsamlingslokalet Arbeider’n
 description: Historien om Stenvang, også kalt Arbeider’n, som ble oppført i Risberget i 1910.
 introduction: Forsamlingslokalet Stenvang ble reist av arbeiderbevegelsen i Risberget og feiret hundreårsjubileum i 2010.
 permalink: /historie/arbeidern/
+nav:
+  label: Arbeider'n
+  parent: /historie/
+  order: 7
 breadcrumbs:
   - label: Historie og kultur
     url: /historie/

@@ -4,6 +4,10 @@ title: 350 år med finneinnvandring
 description: Bilder fra 350-årsjubileet for finneinnvandringen i Risberget i 2017.
 introduction: I 2017 markerte Risberget 350 år siden den skogfinske innvandringen til området.
 permalink: /arrangementer/350-arsjubileum/
+nav:
+  label: 350-årsjubileet i 2017
+  parent: /arrangementer/
+  order: 6
 breadcrumbs:
   - label: Arrangementer
     url: /arrangementer/

@@ -9,5 +9,4 @@
 
 ## Teknisk
 
-- generere navigation.json
 - template for index.njk?
