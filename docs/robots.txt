@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://risbergetfinnskogen.no/sitemap.xml
+Sitemap: https://risbergetkulturhistorie.no/sitemap.xml
 

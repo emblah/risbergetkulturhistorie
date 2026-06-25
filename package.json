@@ -1,13 +1,13 @@
 {
-  "name": "risbergetfinnskogen.no",
+  "name": "risbergetkulturhistorie.no",
   "version": "0.1.0",
   "private": true,
   "type": "module",
   "scripts": {
     "generate:navigation": "node scripts/generate-navigation.js",
     "start": "npm run generate:navigation && eleventy --serve --output=_site",
-    "build": "npm run generate:navigation && eleventy --pathprefix=risbergetfinnskogen && npm run check",
-    "check": "node scripts/check-site.js --site-root docs --path-prefix risbergetfinnskogen"
+    "build": "npm run generate:navigation && eleventy && npm run check",
+    "check": "node scripts/check-site.js --site-root docs --path-prefix /"
   },
   "devDependencies": {
     "@11ty/eleventy": "3.1.6",
