@@ -19,7 +19,8 @@ npm start
 
 The local site is available at `http://localhost:8080/`.
 
-Before committing, run:
+You do not need to run the production build before committing. The pre-commit
+hook runs this command automatically:
 
 ```sh
 npm run build
@@ -28,6 +29,11 @@ npm run build
 This writes the production site to `docs/` and runs `scripts/check-site.js`.
 The check fails on broken local links, missing document titles, or pages that do
 not contain exactly one `<h1>`.
+
+If the build fails, the commit is stopped. When the build succeeds, generated
+changes in `docs/` are staged automatically so the committed source and GitHub
+Pages output stay together. You can still run `npm run build` manually when you
+want to check the production output before committing.
 
 Do not edit files in `docs/` directly. They are generated from `src/`.
 
@@ -339,7 +345,8 @@ If a document is presented as page images, follow the existing
 - Images have accurate dimensions and useful alternative text.
 - Section index pages, `nav` front matter, and redirects are updated where
   applicable.
-- `npm run build` completes successfully.
+- The automatic pre-commit build completes successfully, or `npm run build`
+  has been run manually to check the production output.
 - The changed page is checked in the local development server at desktop and
   narrow viewport widths.
 

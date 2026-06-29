@@ -27,6 +27,11 @@ npm run build
 The generated static site is written to `docs/` with the
 `/risbergetfinnskogen/` path prefix required by GitHub Pages.
 
+You do not need to run this before committing. The pre-commit hook runs
+`npm run build` automatically, stops the commit if the build fails, and stages
+generated changes in `docs/` when the build succeeds. Run `npm run build`
+manually only when you want to check the production output before committing.
+
 Commit and push changes and the GitHub page will be updated in a few minutes.
 
 See the live page at https://emblah.github.io/risbergetfinnskogen/.
